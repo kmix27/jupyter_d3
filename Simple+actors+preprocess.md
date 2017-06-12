@@ -37,11 +37,6 @@ This is a walkthrough of the steps I took in pandas, and NetworkX to convert my 
 There was a **SIGNIFICANT** amount of webscraping, html parsing, and data cleaning that came before,  but it took a while for me to wrap my head around graph structures, so hopefully this helps. 
 
 
-```python
-# global variable for the CSV file locations
-DATAPATH = '/Users/kylemix/ds/metis/metisgh/luther'
-```
-
 
 ```python
 # load in our csv data
