@@ -4,4 +4,4 @@ I'm experimenting (semi-successfully) with making D3 run inline in a jupyter not
 
 To actually see the viz for now, unitl  I figure out the jupyter marriage, run an http server from the viz directory and open local-host:8000 in a browser.   
 
-For non-python folks there is a markdown version of the notebook as well.
+For non-python folks there is a markdown version of the notebook as well. OR you can skip all that noise and just [play with the visualization](https://bl.ocks.org/kmix27/22e56293670eec3364b9172fc5575e3e).
